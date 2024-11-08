@@ -1,0 +1,56 @@
+body{
+    background-color: grey;
+    padding: 0px;
+    margin: 0px;
+}
+
+.head{
+    background-color: cadetblue;
+    width: 100vw;
+    height: 50px;
+}
+
+.head h1{
+    color:blue;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.content{
+    background-color:yellowgreen;
+    width: 100vw;
+    height: 50px;
+    
+}
+
+.content h2{
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+
+#text{
+    font-size: 30px;
+}
+
+.content-lower{
+    background-color:yellowgreen;
+    width: 100vw;
+    height: 50px;
+}
+
+.content-lower h2{
+    color: green;
+    text-align: right;
+    padding-top: 20px;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.list{
+    text-decoration: line-through;
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
